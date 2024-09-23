@@ -6,9 +6,7 @@ featured_image: "/images/coworking-background.png"
 
 # Welcome to CognitionTO
 
-Located in Toronto's vibrant Corktown neighborhood, CognitionTO offers a dynamic and flexible space for AI enthusiasts, tech innovators, and entrepreneurs. At 60 Sumac St., in the iconic Magic Building, we blend a modern café atmosphere with the energy of a coworking hub.
-
-By day, it's a comfortable and casual workspace, and by night, it's a venue for the most exciting tech and AI workshops and networking events in the city.
+CognitionTO offers a dynamic and flexible space for AI enthusiasts, tech innovators, and entrepreneurs. We blend a modern café atmosphere with the energy of a coworking hub.
 
 ## Our Space
 
