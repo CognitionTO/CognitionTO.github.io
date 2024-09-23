@@ -1,0 +1,23 @@
+baseURL = "https://cognition.to/"
+languageCode = "en-us"
+title = "CognitionTO"
+theme = "ananke"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Where Tech and Community Meet"
+  facebook = ""
+  twitter = "https://twitter.com/cognitionto"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/
+  background_color_class = "bg-blue"
+  recent_posts_number = 3
